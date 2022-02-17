@@ -1,6 +1,6 @@
 # RDP 🍃
 
-Đã được chỉnh sửa lại bởi Aiko
+Đã được chỉnh sửa lại bởi Shirakami Yuu
 
 #### Có thể chạy tối đa 6 giờ
 
