@@ -32,7 +32,7 @@
 > Windows + R (Run) > mstsc
 IP: Có dạng như tcp://0.tcp.ap.ngrok.io:12345 , thì IP bỏ `tcp://`
 Username: administrator
-Password: @aiko2k6
+Password: @shirakamiyuu
 ```
 
 ### Cấu hình
