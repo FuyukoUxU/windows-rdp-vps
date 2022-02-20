@@ -57,7 +57,7 @@ Nhớ Delete Workflow mỗi lần chạy (Lỗi can't connect)
 
 KHÔNG được sử dụng cho mục đích đào tiền ảo hoặc các mục đích bất hợp pháp
 
-Đừng thử recode lại (vì tui , aiko đã code lại rồi .-.)
+Đừng thử recode lại (vì tui , Shirakami đã code lại rồi .-.)
 
 Nên dùng acc Github cũ thay vì tạo mới , bởi vì Acc Github mới sẽ bị vào hàng chờ khi dùng
 ```
