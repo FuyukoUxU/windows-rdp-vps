@@ -1,6 +1,6 @@
 # RDP 🍃
 
-Đã được chỉnh sửa lại bởi Shirakami Yuu
+Đã được chỉnh sửa lại bởi Shirakami Yuu (DIE RỒI)
 
 #### Có thể chạy tối đa 6 giờ
 
